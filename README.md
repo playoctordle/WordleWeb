@@ -68,6 +68,10 @@ My own list of Wordle-like games and other assorted variations of this game form
 # [Niklbird](https://x.com/niklbird)
 - [Flagle](https://flagle.de/)/[Twitter release post](https://x.com/niklbird/status/1521800215673688064) An adaptation to Worldle where players guess flags instead of country borders. Published on May 4, 2022
 
+# james bayma
+<a href="https://playoctordle.com/">Octordle</a>, released in February 2022, builds on the familiar Wordle concept while introducing a much greater challenge. Instead of solving a single word, players must guess eight words at the same time, along with exploring additional game modes and variations.
+
+
 # [Freddie Meyer](https://www.fmeyer.com/)
 - [Quordle](https://www.merriam-webster.com/games/quordle/)/[Wikipedia](https://en.wikipedia.org/wiki/Quordle) - A simultaneous four-word puzzle challenge with color-coded feedback, similar to Wordle—but with the twist that you must solve four puzzles at once. Published on February 2022
 
